@@ -15,9 +15,7 @@
   * [LINEA 53](https://juliauru.github.io/D.Godella/Iangle_9/Ia_line53.html)
   * [LINEA 71](https://juliauru.github.io/D.Godella/Iangle_9/Ia_line71.html)
   * [LINEA 75](https://juliauru.github.io/D.Godella/Iangle_9/Ia_line75.html)
- 4. **Distribución densidad de probabilidad de la tensión de fase respecto a Vf=230V**: [DP_230V](https://juliauru.github.io/D.Godella/Densidad_Probabilidad_3.html)
-* Distribución de probabilidad de la tensión de fase respecto a Vf=230V para cada uno de los meses del año.
-5. **Variación en tensión, intensidad y potencia respecto a la potencia aportada por la red de media tensión**: [VIP_P_aportada](https://juliauru.github.io/D.Godella/VIP_anual_CG_4.html)
+4. **Variación en tensión, intensidad y potencia respecto a la potencia aportada por la red de media tensión**: [VIP_P_aportada](https://juliauru.github.io/D.Godella/VIP_anual_CG_4.html)
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
   * [LINEA 17](https://juliauru.github.io/D.Godella/R_Autoconsumo_4/CG_line17.html)
   * [LINEA 28](https://juliauru.github.io/D.Godella/R_Autoconsumo_4/CG_line28.html)
@@ -29,7 +27,7 @@
   * [LINEA 53](https://juliauru.github.io/D.Godella/R_Autoconsumo_4/CG_line53.html)
   * [LINEA 71](https://juliauru.github.io/D.Godella/R_Autoconsumo_4/CG_line71.html)
   * [LINEA 75](https://juliauru.github.io/D.Godella/R_Autoconsumo_4/CG_line75.html)
-  6. **Variación en tensión, intensidad y potencia de los escenarios con penetración 25%,50%,75% y 100% respecto al escenario sin penetración**: [VIP_R0](https://juliauru.github.io/D.Godella/VIP_anual_R_0_5.html)
+5. **Variación en tensión, intensidad y potencia de los escenarios con penetración 25%,50%,75% y 100% respecto al escenario sin penetración**: [VIP_R0](https://juliauru.github.io/D.Godella/VIP_anual_R_0_5.html)
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
   * [LINEA 17](https://juliauru.github.io/D.Godella/R0_5/R0_line17.html)
   * [LINEA 28](https://juliauru.github.io/D.Godella/R0_5/R0_line28.html)
@@ -41,7 +39,7 @@
   * [LINEA 53](https://juliauru.github.io/D.Godella/R0_5/R0_line53.html)
   * [LINEA 71](https://juliauru.github.io/D.Godella/R0_5/R0_line71.html)
   * [LINEA 75](https://juliauru.github.io/D.Godella/R0_5/R0_line75.html)
-  7. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio mensual**: [DP_R0_Mensual](https://juliauru.github.io/D.Godella/R0_VIP_6.html)
+6. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio mensual**: [DP_R0_Mensual](https://juliauru.github.io/D.Godella/R0_VIP_6.html)
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
   * [LINEA 17](https://juliauru.github.io/D.Godella/R0_VIP_6/R0_line17.html)
   * [LINEA 28](https://juliauru.github.io/D.Godella/R0_VIP_6/R0_line28.html)
@@ -53,7 +51,7 @@
   * [LINEA 53](https://juliauru.github.io/D.Godella/R0_VIP_6/R0_line53.html)
   * [LINEA 71](https://juliauru.github.io/D.Godella/R0_VIP_6/R0_line71.html)
   * [LINEA 75](https://juliauru.github.io/D.Godella/R0_VIP_6/R0_line75.html)
-  8. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio horario**:[DP_R0_Horaria](https://juliauru.github.io/D.Godella/R0_VIP_h_8.html)
+7. **Distribución densidad de probabilidad de la variación porcentual de la tensión de fase respecto al caso 0%. Estudio horario**:[DP_R0_Horaria](https://juliauru.github.io/D.Godella/R0_VIP_h_8.html)
 * Para una mayor claridad de los resultados se han representado a su vez los mismos resultados para cada línea de estudio en unos ejes diferentes:
   * [LINEA 17](https://juliauru.github.io/D.Godella/R0_VIP_h_8/R0_h__line17.html)
   * [LINEA 28](https://juliauru.github.io/D.Godella/R0_VIP_h_8/R0_h_line28.html)
